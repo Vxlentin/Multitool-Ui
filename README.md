@@ -13,7 +13,7 @@
   ✨ Thanks For Using Multitool UI ✨
 </h1>
 
-
+<p align="center"> 
   <kbd>
 <img ![standard (16)](https://user-images.githubusercontent.com/89037748/188980773-7fcc6314-fe72-436a-bfeb-e309bc7548bf.gif) ></img>
   </kbd>
