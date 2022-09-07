@@ -15,6 +15,6 @@
 
 <p align="center"> 
   <kbd>
-< ![standard (16)](https://user-images.githubusercontent.com/89037748/188980773-7fcc6314-fe72-436a-bfeb-e309bc7548bf.gif) >
+![standard (16)](https://user-images.githubusercontent.com/89037748/188980773-7fcc6314-fe72-436a-bfeb-e309bc7548bf.gif) 
   </kbd>
 </p>
