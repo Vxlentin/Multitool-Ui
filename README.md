@@ -1,5 +1,5 @@
 ```
-**3 ⭐️ FOR REALESE**
+3 ⭐️ FOR RELEASE
 ```
 
 <p align="center">
