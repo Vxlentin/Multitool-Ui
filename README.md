@@ -1,5 +1,5 @@
 ```
-6⭐️ for white Version!
+6 ⭐️ for white Version!
 ```
 
 <p align="center">
