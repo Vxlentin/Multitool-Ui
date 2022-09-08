@@ -1,6 +1,4 @@
-```
-3 ⭐️ FOR RELEASE
-```
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89037748/188981136-6cd641cb-6b92-435e-8d9b-2693e0efc5d4.gif">
